@@ -1,9 +1,12 @@
 = Requirements =
 
+REPL
+script/batch operations
+
 support :
 pipes and tees
 standard HTTP operations
-named graphs
+named graphs - set operators
 SPARQL - (initially wrap AndyS's scripts)
 lots of RDF helpers (check Jena/ARQ scripts)
 filesystem access

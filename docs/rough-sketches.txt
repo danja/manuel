@@ -4,6 +4,10 @@
 
 use V8 Javascript, only node.js if it seems to simplify things
 
+graph monads = gonads
+play with Haskell a bit
+
+
 resource.in is where you make a request
 resource.out is where the response comes from?
 

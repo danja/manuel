@@ -5,14 +5,22 @@ http://en.wikipedia.org/wiki/Domain-specific_language
 http://en.wikipedia.org/wiki/Pipeline_(Unix)
 http://en.wikipedia.org/wiki/Relational_operator
 http://dbaspot.com/shell/402451-bash-posix-shells-chaining-commands.html
+http://en.wikipedia.org/wiki/Operator_associativity
+http://en.wikipedia.org/wiki/Side_effect_(computer_science)
+http://en.wikipedia.org/wiki/Flow-based_programming
 
-== Node.js/JS ==
+== Node.js ==
 http://nodejs.org/docs/v0.5.5/api/process.html
 http://snippets.dzone.com/posts/show/12069
 http://nodejs.org/docs/v0.5.5/api/child_processes.html
 
+== Parsers ==
 http://zaach.github.com/jison/
 http://javascript.crockford.com/tdop/tdop.html
+
+== Misc JS ==
+
+http://osteele.com/sources/javascript/functional/
 
 == RDF bits ==
 
@@ -24,4 +32,12 @@ http://jena.sourceforge.net/ARQ/cmds.html
 http://openjena.org/wiki/SOH
 
 add SPARQL 1.1 links
+
+== Theory ==
+http://shikantaza.blogspot.com/2009/09/haskell-monads-graph-theory-and-puzzle.html
+http://reperiendi.wordpress.com/2010/03/26/monads-for-functional-javascript-programming/
+http://igstan.ro/posts/2011-05-02-understanding-monads-with-javascript.html
+http://blog.jcoglan.com/2011/03/06/monad-syntax-for-javascript/
+
+http://jan.newmarch.name/java/posix/paper.html
 

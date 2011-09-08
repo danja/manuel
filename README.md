@@ -15,3 +15,5 @@ I'll probably rough something out with Jison
 use case driven dev - make it up as I need it
 
 use V8 Javascript, only node.js if it seems to simplify things
+
+check it works with Jython for integration into Scute
