@@ -1,0 +1,21 @@
+= Rough Sketches =
+
+resource.in is where you make a request
+resource.out is where the response comes from?
+
+working = "~/working" ; base dir for working files
+
+data = turtle("file.ttl")
+data contains that data and the marker that it's "Accept: text/turtle"
+
+
+
+or 
+
+a.in = t.out
+v.in = a.out
+
+show(v.out)
+
+t.out is the response from doing a GET on t
+t.out@html  is the response from doing a GET on t with "Accept: HTML media types"
