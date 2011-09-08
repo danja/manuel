@@ -1,5 +1,9 @@
 = Rough Sketches =
 
+(use case driven dev - make it up as I need it)
+
+use V8 Javascript, only node.js if it seems to simplify things
+
 resource.in is where you make a request
 resource.out is where the response comes from?
 

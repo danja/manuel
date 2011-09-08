@@ -1,6 +1,8 @@
 = Architecture =
 
-use case driven dev - make it up as I need it
+(use case driven dev - make it up as I need it)
+
+use V8 Javascript, only node.js if it seems to simplify things
 
 initially client-focused
 (services can be defined by a script)

@@ -1,0 +1,4 @@
+
+Precedence rules specify priority of operators (which operators will be evaluated first, e.g. multiplication has higher precedence than addition, PEMDAS).
+
+The associativity rules tell how the operators of same precedence are grouped. Arithmetic operators are left-associative, but the assignment is right associative (e.g. a = b = c will be evaluated as b = c, a = b).
