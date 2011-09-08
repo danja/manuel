@@ -1,0 +1,21 @@
+= References =
+
+http://nodejs.org/docs/v0.5.5/api/process.html
+http://snippets.dzone.com/posts/show/12069
+http://nodejs.org/docs/v0.5.5/api/child_processes.html
+
+http://javascript.crockford.com/tdop/tdop.html
+
+http://en.wikipedia.org/wiki/Pipeline_(Unix)
+
+
+http://zaach.github.com/jison/
+
+Jena command-line
+http://jena.sourceforge.net/tools.html
+ARQ
+http://jena.sourceforge.net/ARQ/cmds.html
+http://openjena.org/wiki/SOH
+
+http://en.wikipedia.org/wiki/Domain-specific_language
+http://en.wikipedia.org/wiki/Pipeline_(Unix)

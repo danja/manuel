@@ -1,0 +1,31 @@
+= Use Cases =
+
+== Chained URL ==
+
+http://www.w3.org/RDF/Validator/ARPServlet?URI=http://triplr.org/rdf/http://any23.org/best/http://twitter.com/danja&PARSE=Parse+URI:+&TRIPLES_AND_GRAPH=PRINT_GRAPH&FORMAT=PNG_EMBED&NODE_COLOR=Black&NODE_TEXT_COLOR=Blue&EDGE_COLOR=Darkgreen&EDGE_TEXT_COLOR=Red&FONT_SIZE=10&ORIENTATION=LR#graph
+
+t = twitter.com/danja
+a = http://triplr.org/rdf/http://any23.org/best/
+v = http://www.w3.org/RDF/Validator/ARPServlet
+
+(get v + a + t)
+
+== Post to Wiki ==
+
+dogfood - docs for manuel, original in github, published on hyperdata wiki
+
+v1. simple PUT (replace)/POST (append) from file or command-line text
+v2. walk dirs and do 1. 
+
+page naming - pull from first = title = in text
+
+== Post to Triplestore ==
+
+dogfood - project description
+
+== RDFize URL ==
+
+v1. take a URL, GET it, parse HTML and add dc:title triple
+v2. more triples (call any23?)
+
+

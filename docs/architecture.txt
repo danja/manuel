@@ -1,0 +1,12 @@
+= Architecture =
+
+use case driven dev - make it up as I need it
+
+initially client-focused
+(services can be defined by a script)
+later add server support
+
+aim for declarative
+use monads
+
+constants, no variables; no side-effects?

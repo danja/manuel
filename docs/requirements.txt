@@ -1,0 +1,15 @@
+= Requirements =
+
+support :
+pipes and tees
+standard HTTP operations
+named graphs
+SPARQL - (initially wrap AndyS's scripts)
+lots of RDF helpers (check Jena/ARQ scripts)
+filesystem access
+OS calls
+
+draw on POSIX shell ideas
+cURL/wget-style operations
+
+WebDAV (later)
