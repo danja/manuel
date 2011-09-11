@@ -7,6 +7,25 @@ use V8 Javascript, only node.js if it seems to simplify things
 graph monads = gonads
 play with Haskell a bit
 
+----
+<http://example.org> - GET it
+
+<http://example.org>#Turtle
+
+<http://example.org>#"text/turtle"
+
+
+<http://example.org>.DELETE
+<http://example.org>.
+
+strings
+" ... " or """ ... """ multiline
+
+<http://example.org>.PUT#Turtle "data"
+
+files
+@file
+----
 
 resource.in is where you make a request
 resource.out is where the response comes from?

@@ -9,6 +9,8 @@ http://en.wikipedia.org/wiki/Operator_associativity
 http://en.wikipedia.org/wiki/Side_effect_(computer_science)
 http://en.wikipedia.org/wiki/Flow-based_programming
 
+file:///home/danny/Desktop/posix-java/posix1.0/src/index.html
+
 == Node.js ==
 http://nodejs.org/docs/v0.5.5/api/process.html
 http://snippets.dzone.com/posts/show/12069
@@ -38,6 +40,7 @@ http://shikantaza.blogspot.com/2009/09/haskell-monads-graph-theory-and-puzzle.ht
 http://reperiendi.wordpress.com/2010/03/26/monads-for-functional-javascript-programming/
 http://igstan.ro/posts/2011-05-02-understanding-monads-with-javascript.html
 http://blog.jcoglan.com/2011/03/06/monad-syntax-for-javascript/
+http://channel9.msdn.com/Shows/Going+Deep/Brian-Beckman-Dont-fear-the-Monads 
 
 http://jan.newmarch.name/java/posix/paper.html
 

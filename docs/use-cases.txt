@@ -25,7 +25,13 @@ dogfood - project description
 
 == RDFize URL ==
 
-v1. take a URL, GET it, parse HTML and add dc:title triple
+v1. take a URL, GET it, parse HTML and create dc:title triple
 v2. more triples (call any23?)
+
+== Web to Text ==
+
+for text reader
+Recursively GET http://www.w3.org/DesignIssues/Overview.html
+strip tags
 
 
